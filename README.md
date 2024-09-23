@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Son Pham</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-- 👨‍💻 All of my projects are available at [holasunday.dev](holasunday.dev)
+- 👨‍💻 All of my projects are available at [holasunday.dev](https://holasunday.dev)
 
 - 📫 How to reach me **phamhoangson99@gmail.com**
 
