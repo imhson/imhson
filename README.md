@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Son Pham</h1>
 <h3 align="center">A developer from Vietnam</h3>
 
-- 📫 How to reach me **phamhoangson99@gmail.com**
+- Find out more at [holasunday.dev](https://holasunday.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
